@@ -6,6 +6,9 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "mongoose": "*",
+    "mongodb": "*",
+    "connect": "*",
     "express": "3.2.6",
     "jade": "*"
   }
